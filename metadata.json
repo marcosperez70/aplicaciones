@@ -1,0 +1,6 @@
+{
+  "name": "Compresión Lectora",
+  "description": "Una aplicación impulsada por IA para mejorar la comprensión lectora a través de resúmenes, preguntas y análisis de texto.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
